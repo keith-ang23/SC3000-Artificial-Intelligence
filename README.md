@@ -1,1 +1,2 @@
-Run in Google Collab to view the cartpole balancing in line
+# SC3000 Assignments 
+1. CartPole-v1 (Open AI Gym)
